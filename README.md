@@ -3,7 +3,7 @@
 ### Me llamo Iván Nicolás Cardozo Gómez  
 #### Legajo: 222.190-1  
 
-![Fotito](img/fotito.jpeg)
+![Fotito](fotito.jpeg)
 
 ---
 
